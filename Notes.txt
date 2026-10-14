@@ -1,0 +1,11 @@
+1.	console.log(" ") 
+	this syntax we have use to print the values
+
+2.	let = let is a keyword using which create a variable.
+	Variables
+	can have characters (ex- name)
+	can have numbers except first position (ex- name1)
+	can have special symbols $ and _ (ex- $Full_Name) 
+	Rules - 1.Snake casing rule (ex- first_name)
+		2.camel casing rule (ex- firstName)
+				
