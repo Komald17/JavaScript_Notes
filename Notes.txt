@@ -9,3 +9,10 @@
 	Rules - 1.Snake casing rule (ex- first_name)
 		2.camel casing rule (ex- firstName)
 				
+3.	Constant
+	No one changed the value
+	ex- const pi=30.80
+
+4.	DataType
+	1.Primitive = Numbers, String, Boolean, Null, Undefined, Symbol.
+	2.Object	
